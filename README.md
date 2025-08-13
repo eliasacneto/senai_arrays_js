@@ -1,1 +1,1 @@
-# senai_arrays_js
+# senai-js-challenges
